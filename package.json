@@ -9,8 +9,27 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@emotion/react": "^11.10.6",
+    "@emotion/styled": "^11.10.6",
+    "@fontsource/roboto": "^4.5.8",
+    "@mui/icons-material": "^5.11.11",
+    "@mui/lab": "^5.0.0-alpha.124",
+    "@mui/material": "^5.12.0",
+    "@mui/styled-engine-sc": "^5.11.11",
+    "@rsuite/icons": "^1.0.2",
+    "axios": "^1.3.4",
+    "notistack": "^3.0.1",
     "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react-alice-carousel": "^2.7.1",
+    "react-carousel-minimal": "^1.4.1",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.9.0",
+    "react-slick": "^0.29.0",
+    "react-use-cart": "^1.13.0",
+    "rsuite": "^5.29.0",
+    "sass": "^1.59.2",
+    "slick-carousel": "^1.8.1",
+    "styled-components": "^5.3.9"
   },
   "devDependencies": {
     "@types/react": "^18.0.27",
